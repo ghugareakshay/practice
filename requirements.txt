@@ -2,3 +2,6 @@ emoji
 typing
 color
 dark mod
+
+payment
+ddd
