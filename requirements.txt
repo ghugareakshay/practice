@@ -1,3 +1,4 @@
 emoji 
 typing
 color
+dark mod
